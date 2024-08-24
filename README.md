@@ -1,7 +1,7 @@
 # Ex.No: 01A PLOT A TIME SERIES DATA
 ### Name: Karnan K
 ### Reg no:212222230062
-###  Date: 24/08/2024
+###  Date: 
 
 # AIM:
 To Develop a python program to Plot a time series data (population/ market price of a commodity
