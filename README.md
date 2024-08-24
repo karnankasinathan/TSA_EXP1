@@ -4,10 +4,9 @@
 # Ex.No: 01A PLOT A TIME SERIES DATA
 
 # AIM:
-To Develop a python program to Plot a time series data (population/ market price of a commodity
-/temperature.
+To Develop a python program to Plot a time series data (baggagecomplaints)
 # ALGORITHM:
-12Import pandas and matplotlib.
+1.Import pandas and matplotlib.
 2.Load the CSV data into a DataFrame.
 3.Display the first few rows and column names.
 4.Group data by Airline and Year, summing Enplaned complaints.
@@ -46,4 +45,4 @@ plt.show()
 
 
 # RESULT:
-Thus we have created the python code for plotting the time series of given data.
+Thus the python program successfully created to Plot a time series data.
