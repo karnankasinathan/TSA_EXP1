@@ -1,4 +1,4 @@
-### Name: Karnan K
+### Developed by: Karnan K
 ### Reg no:212222230062
 ###  Date: 
 # Ex.No: 01A PLOT A TIME SERIES DATA
