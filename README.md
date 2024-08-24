@@ -6,6 +6,7 @@
 # AIM:
 To Develop a python program to Plot a time series data (baggagecomplaints)
 # ALGORITHM:
+```
 1.Import pandas and matplotlib.
 2.Load the CSV data into a DataFrame.
 3.Display the first few rows and column names.
@@ -13,6 +14,7 @@ To Develop a python program to Plot a time series data (baggagecomplaints)
 5.Plot the number of complaints over time for each airline.
 6.Add title, labels, legend, and grid to the plot.
 7.Show the plot.
+```
 # PROGRAM:
 
 ```
@@ -45,4 +47,4 @@ plt.show()
 
 
 # RESULT:
-Thus the python program successfully created to Plot a time series data.
+Thus the python program was successfully created to Plot a time series data.
