@@ -1,22 +1,21 @@
-# Ex.No: 01A PLOT A TIME SERIES DATA
 ### Name: Karnan K
 ### Reg no:212222230062
 ###  Date: 
+# Ex.No: 01A PLOT A TIME SERIES DATA
 
 # AIM:
 To Develop a python program to Plot a time series data (population/ market price of a commodity
 /temperature.
 # ALGORITHM:
-1. Import the required packages like pandas and matplot
-2. Read the dataset using the pandas
-3. Calculate the mean for the respective column.
-4. Plot the data according to need and can be altered monthly, or yearly.
-5. Display the graph.
+12Import pandas and matplotlib.
+2.Load the CSV data into a DataFrame.
+3.Display the first few rows and column names.
+4.Group data by Airline and Year, summing Enplaned complaints.
+5.Plot the number of complaints over time for each airline.
+6.Add title, labels, legend, and grid to the plot.
+7.Show the plot.
 # PROGRAM:
-```
-Developed by:karnan K
-Reg no:212222230062
-```
+
 ```
 import pandas as pd
 import matplotlib.pyplot as plt
